@@ -1,5 +1,3 @@
-package com.fxdj;
-
 // Class representing a geometric shape composed of points
 public class Shape {
     private Point[] points; // Array of points representing the shape

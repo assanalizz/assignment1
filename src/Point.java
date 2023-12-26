@@ -1,5 +1,3 @@
-package com.fxdj;
-
 import java.lang.Math;
 
 // Class representing a point in a 2D space
